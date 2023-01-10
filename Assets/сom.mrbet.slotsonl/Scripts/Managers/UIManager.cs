@@ -9,7 +9,7 @@ public class UIManager : MonoBehaviour
     [Space(10)]
     [SerializeField] GameObject backBtnGo;
 
-    public void OpenGame(int id)
+    public void OpenGame()
     {
         menu.SetActive(false);
         game.SetActive(true);
