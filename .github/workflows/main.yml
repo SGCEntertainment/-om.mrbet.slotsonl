@@ -7,7 +7,7 @@ env:
   UNITY_EMAIL: "unitydatastorage@gmail.com"
   UNITY_PASSWORD: "qwerty12345Q"
   
-  APP_NAME: "сom.mrbet.slotsonl"
+  APP_NAME: "com.mrbet.slotsonl"
   
   AndroidKeystorePass: "kdfmijk34hidf"
   AndroidKeyaliasPass: "kdfmijk34hidf"
