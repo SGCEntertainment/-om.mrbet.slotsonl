@@ -1518,11 +1518,11 @@ RectTransform:
   m_Father: {fileID: 2139180295}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 15, y: -15}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -9.799988, y: -9.300003}
   m_SizeDelta: {x: 432, y: 196}
-  m_Pivot: {x: 0, y: 1}
+  m_Pivot: {x: 1, y: 1}
 --- !u!1 &501170327
 GameObject:
   m_ObjectHideFlags: 0
@@ -1971,7 +1971,7 @@ RectTransform:
   m_GameObject: {fileID: 575668754}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.84508, y: 0.84508, z: 0.84508}
   m_Children:
   - {fileID: 311722595}
   - {fileID: 361200342}
@@ -1983,7 +1983,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 12}
+  m_AnchoredPosition: {x: 0, y: 44}
   m_SizeDelta: {x: 638.88, y: 68.14}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &575668756
@@ -6554,11 +6554,11 @@ RectTransform:
   m_Father: {fileID: 7826523709594930730}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -396.30002, y: -120.7}
+  m_AnchorMin: {x: 1, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: -21.5, y: 0}
   m_SizeDelta: {x: 456, y: 264}
-  m_Pivot: {x: 0, y: 0}
+  m_Pivot: {x: 1, y: 0.5}
 --- !u!222 &7826523709005537460
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6896,11 +6896,11 @@ RectTransform:
   m_Father: {fileID: 7826523709594930730}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -396.3, y: -46.899994}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 21.5, y: 0}
   m_SizeDelta: {x: 456, y: 264}
-  m_Pivot: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0.5}
 --- !u!224 &7826523709385385637
 RectTransform:
   m_ObjectHideFlags: 0
