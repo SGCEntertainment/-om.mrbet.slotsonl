@@ -4,6 +4,6 @@ public class WinPopup : MonoBehaviour
 {
     private void Start()
     {
-        Destroy(gameObject, 1.0f);
+        Destroy(gameObject, 2.9f);
     }
 }
